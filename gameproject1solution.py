@@ -74,6 +74,7 @@ while True:
 
     print("")
     print("Player wins: " + str(player_wins))
+    print("horray! player is winning!")
     print("Computer wins: " + str(comp_wins))
     print("")
 
